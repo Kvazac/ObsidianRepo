@@ -1,0 +1,80 @@
+Generally, it's a rather fluid format, you may use more illustrative means to highlight info
+- Phone -> [phone emoji]
+General advice
+- Get a picture (likely to use on your student license)
+Structure
+- Two sections
+	- Arbitrary section [side]
+		- Main info
+		- Short hand
+		- basically introduce yourself
+			- In the brief outline
+				- Have a hook
+			- Self-management
+			- Collaborative
+			- Industrious
+			- 'young professional' - working with ETM
+		- Under skills
+			- Contain measurable skills
+			- Languages
+				- English C2
+				- Lithuanian C2 (native)
+				- German (A2)
+				- French (A2)
+			- Software
+				- Data collection and analysis
+					- Office | Excel 
+				- Programing 
+					- C++ | Arduino IDE, VisualStudio
+				- Electronics engineering
+					- Easy EDA | PCB & Circuit design
+				- Simulation 
+					- MatLab
+					- Fusion 360 | 3D design & simulation
+				- ==Find certificates of projects & achievements==
+		- Interests
+			- Drawing & Sketching
+				- Details and connect to engineering
+			- Music
+				- Piano
+					- Good cognitive and motoric skills
+					- A form of meditation 
+			- Motorcycling 
+				- Modding and upgrading 
+				- A fondness of adrenaline 
+			- Don't try to push too much, if you think of anything else then it must be good
+				- Consider history
+					- Which century, why like
+	- Education [Main | Top]
+		- Schools
+			- Vilniaus Licėjus | 2023-2025 | International 
+				- Programe: International Baccalaureate 
+					- HL
+						- Physics
+						- Mathematics (AA)
+						- English
+						- Chemistry
+					- SL
+						- History
+						- Lithuanian A
+				- Social events
+					- Extended Essay
+						- Consider moving to practical/academic part if you want to elaborate
+					- Chemistry  Olympiads
+					- CanSat
+						- With VGTU Lyceum's team | 2023-2024
+					- CanSat
+						- With Vilnius Lyceum | 2024-2025
+			- VGTU licejus | 2021-2023
+				- National Programme  
+				- Physics Olympiad's
+				- Jr. Riflemen in VGTU
+			- Juozapas | 2020-2021
+			- Kulvietis | 2017-2020
+			- Šviesos | 2013-2024
+		- Professional | Practical experience
+				- Extended Essay (2023-2025)
+				- CanSat (2 instances 2023-2025)
+				- ETM (2022-2025)
+				- TrenkTuras (2024-2025) [consider putting into under žygiavimas w trenkturas & šauliai]
+			- Take an angle from knowledge gained over skills
